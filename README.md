@@ -26,10 +26,6 @@ I'm a software engineering who is passionate about building innovative software 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-![snake gif](https://github.com/dhmin5693/dhmin5693/blob/output/github-contribution-grid-snake.svg)
-
----
 [![](https://visitcount.itsvg.in/api?id=YiiSauce&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
