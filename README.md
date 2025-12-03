@@ -1,4 +1,4 @@
-<h1 align="center">💫Hi,<br> my name is Mhamdi Jaouad 👋</h1>
+<h1 align="center">Hi,<br> my name is Mhamdi Jaouad 👋</h1>
 
 <p align="center">
     <a href="https://twitter.com/mhamdi_jaouad"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
