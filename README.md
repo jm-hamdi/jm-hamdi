@@ -15,6 +15,7 @@ I'm a software engineering who is passionate about building innovative software 
 
 ## :fire: Github Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jm-hamdi&theme=radical&hide_border=false)<br/>
+
 ### :writing_hand: My Coding Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-hamdi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
