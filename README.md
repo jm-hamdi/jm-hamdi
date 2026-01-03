@@ -16,9 +16,9 @@ I'm a software engineering who is passionate about building innovative software 
 ## :fire: Github Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jm-hamdi&theme=radical&hide_border=false)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jm-hamdi&theme=radical&hide_border=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=jm-hamdi) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=jm-hamdi) 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jm-hamdi&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=jm-hamdi&theme=radical)-->
 
 
 <br/>
